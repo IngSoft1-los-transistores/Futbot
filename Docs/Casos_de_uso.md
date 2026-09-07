@@ -379,7 +379,7 @@
 
     Escenario exitoso principal:    
     1. Actor primario: Ejecuta - Caso de uso #19: Ver listado de ligas públicas, selecciona la liga de interés y hace click en el botón “Información”.      
-    2. Sistema: Muestra tabla de puntaje, listado de clubes participantes y fixture de la liga mediante un pop-up.
+    2. Sistema: Muestra tabla de puntaje y listado de clubes participantes mediante un pop-up.
 
 
 - **_Consultar_ _fixture_ _de_ _liga_**:    
