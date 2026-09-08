@@ -144,7 +144,7 @@
 
 - **_Editar_ _comportamiento_**:  
     Actor primario: Usuario logueado  
-    Precondiciones: haber creado el comportamiento y tener abierto el listado de comportamientos  
+    Precondiciones: haber creado el comportamiento, tener abierto el listado de comportamientos y que no este asignado a un jugador.  
     Escenario exitoso principal:  
     1. Actor primario: elige qué comportamiento quiere editar dandole un click.  
     2. Sistema: muestra un pop-up donde el actor debe cargar el archivo con el nuevo código de comportamiento.  
@@ -161,7 +161,7 @@
 
 - **_Eliminar_ _Comportamiento_**:  
     Actor primario: Usuario logueado  
-    Precondiciones: Comportamiento a eliminar existente y tener abierto el listado de comportamientos  
+    Precondiciones: Comportamiento a eliminar existente, tener abierto el listado de comportamientos y que no este asignado a un jugador  
     Escenario exitoso principal:  
     1. Actor primario: Selecciona un comportamiento a eliminar del listado mediante un click.  
     2. Sistema: Muestra el comportamiento con un pop-up y una equis roja al lado  
